@@ -1,0 +1,10 @@
+{
+  "main": "index.html",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "homepage": "https://mihkuno.github.io/index.html",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
